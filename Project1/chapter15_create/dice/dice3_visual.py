@@ -1,5 +1,5 @@
 # coding=gbk
-#同时投掷2个骰子
+#同时投掷3个骰子
 
 from plotly.graph_objs import Bar, Layout
 from plotly import offline
