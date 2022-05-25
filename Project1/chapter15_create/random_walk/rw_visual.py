@@ -1,5 +1,5 @@
 #coding=gbk
-#只要程序处于活跃状态，就不断随机漫步
+#只要程序处于活跃状态,就不断随机漫步
 
 import matplotlib.pyplot as plt
 from random_walk import RandomWalk
