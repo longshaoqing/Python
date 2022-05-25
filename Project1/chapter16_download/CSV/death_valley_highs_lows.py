@@ -1,5 +1,5 @@
 #coding=gbk
-#美国加州福尼亚死亡谷2018年每日最高气温和最低气温绘图
+#美国加州福尼亚死亡谷2018年每日最高气温和最低气温可视化图
 
 import csv
 from datetime import datetime
