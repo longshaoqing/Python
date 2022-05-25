@@ -1,4 +1,5 @@
 #coding=gbk
+
 #全球地震散点图：JSON格式
 
 import json
