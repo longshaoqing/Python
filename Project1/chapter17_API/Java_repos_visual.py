@@ -1,5 +1,5 @@
 #coding=gbk
-#使用Plotly可视化仓库，绘GitHub最受欢迎的Java项目图表
+#使用Plotly可视化仓库，绘GitHub最受欢迎的Java项目图
 
 import requests
 from plotly.graph_objs import Bar
