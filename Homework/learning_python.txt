@@ -1,2 +1,0 @@
-In Python you can learn functions!
-In Python you can learn how to edit code!
